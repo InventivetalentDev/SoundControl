@@ -1,0 +1,10 @@
+name: SoundControl
+main: org.inventivetalent.soundcontrol.SoundControl
+author: inventivetalent
+version: ${project.version}
+
+softdepend: [PacketListenerApi]
+
+commands:
+  soundcontrol:
+    aliases: [sc]

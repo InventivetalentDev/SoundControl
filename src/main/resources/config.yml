@@ -1,0 +1,16 @@
+#List of completely disabled sounds - Sounds: https://gist.github.com/Cybermaxke/7c21d9c818079bacd42b
+#Example: 'weather.rain' disables rain
+disable: []
+
+#List of completely disabled sound-categories (1.9+ ONLY!) - Categories: https://gist.github.com/konwboj/7c0c380d3923443e9d55
+#Example: 'HOSTILE' disables all hostile mob-sounds
+disableCategory: []
+
+#List of replaced sounds (Original > Replacement)
+#Examples: 
+#'mob.zombie.say>mob.cat.meow' makes zombies say "meow"
+#'mob.cat.meow>mob.zombie.say' makes cats sound like zombies
+replace: []
+
+#Enable this to print all outgoing sounds to the console
+debug: false
